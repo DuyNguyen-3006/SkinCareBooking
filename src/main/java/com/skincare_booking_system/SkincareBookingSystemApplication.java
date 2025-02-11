@@ -8,7 +8,7 @@ public class SkincareBookingSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SkincareBookingSystemApplication.class, args);
-		System.out.println("Hello from backend");
+		System.out.println("Hello from");
 	}
 
 }
